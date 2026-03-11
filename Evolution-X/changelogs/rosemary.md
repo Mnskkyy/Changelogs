@@ -1,3 +1,12 @@
+# March 11, 2026
+- Sync With Latest Source
+- Now Migrate to LunarisDolby
+- ship MiuiCameraLeica
+- ViPER4AndroidFX Included
+- Kernel 4.19 with RKSU & SusFS
+- Kaeru Always Include 
+- Firmware Always Include 
+
 # March 4, 2026
 - Sync With Latest source 
 - Merge March 2026 Security Patch
